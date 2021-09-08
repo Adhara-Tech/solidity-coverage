@@ -292,6 +292,7 @@ async function finish(config, api){
   } = getTempLocations(config);
 
   shell.config.silent = true;
+  shell.rm('-Rf', tempContractsDir);
   shell.rm('-Rf', tempArtifactsDir);
   shell.config.silent = false;
 
