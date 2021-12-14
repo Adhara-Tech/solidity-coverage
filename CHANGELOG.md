@@ -1,5 +1,9 @@
 # Changelog
 
+0.7.17 / 2021-12-14
+===================
+  * Add new hook and make temporary contracts directory configurable
+
 0.7.16 / 2021-03-04
 ===================
   * Update @solidity-parser/parser to ^0.12.0 (and support Panic keyword in catch clauses) (https://github.com/sc-forks/solidity-coverage/issues/621)

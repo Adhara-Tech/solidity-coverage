@@ -1,5 +1,5 @@
 {
-  "name": "solidity-coverage",
+  "name": "adhara-solidity-coverage",
   "version": "0.7.17",
   "description": "",
   "main": "plugins/nomiclabs.plugin.js",
@@ -16,10 +16,9 @@
     "test:debug": "node --max-old-space-size=4096 ./node_modules/.bin/mocha test/units/* --timeout 100000 --no-warnings --exit",
     "netlify": "./scripts/run-netlify.sh"
   },
-  "homepage": "https://github.com/sc-forks/solidity-coverage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sc-forks/solidity-coverage.git"
+    "url": "https://github.com/Adhara-Tech/solidity-coverage.git"
   },
   "author": "",
   "license": "ISC",
