@@ -1,10 +1,6 @@
-[![Gitter chat](https://badges.gitter.im/sc-forks/solidity-coverage.svg)][18]
-![npm (tag)](https://img.shields.io/npm/v/solidity-coverage/latest)
-[![CircleCI](https://circleci.com/gh/sc-forks/solidity-coverage.svg?style=svg)][20]
-[![codecov](https://codecov.io/gh/sc-forks/solidity-coverage/branch/beta/graph/badge.svg)][21]
-[![buidler](https://buidler.dev/buidler-plugin-badge.svg?1)][26]
+# adhara-solidity-coverage
 
-# solidity-coverage
+This project is a fork of [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage)
 
 Solidity code coverage plugin for [buidler](http://getbuidler.com).
 
